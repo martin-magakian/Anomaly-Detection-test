@@ -1,7 +1,7 @@
 Anomaly Detection - Test
 ============
 
-Review of [Anomaly Detection with Twitter](http://anomalyts.io/anomaly-detection-twitter-r/)
+Review of [Anomaly Detection by Twitter](http://anomalyts.io/anomaly-detection-twitter-r/)
 
 
 
