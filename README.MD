@@ -1,10 +1,10 @@
 Anomaly Detection - Test
 ============
 
-Review of [Anomaly Detection by Twitter](http://anomalyts.io/anomaly-detection-twitter-r/)
+Review of [Anomaly Detection by Twitter](https://anomaly.io/anomaly-detection-twitter-r/)
 
 
-
+By [Anomaly](https://anomaly.io/)
 
 
 Some anomalies were detected:[![Anomaly detected][2]][1]
